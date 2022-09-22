@@ -1,0 +1,88 @@
+p.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+p.song{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+p.direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.direction:hover{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: medium;
+     color: blueviolet;
+     background-color: brown;
+}
+h6.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:black ;
+}
+.ANGELA {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:darkblue;
+    background-color:azure;
+   
+}
+.ANGELA:hover{
+
+   font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:darkmagenta;
+    background-color:darkgray;
+    text-shadow:2px 2px 2px  mintcream ;
+}
+
+.MAIDENS{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:darkmagenta;
+    background-color:aliceblue;
+   
+}
+.MAIDENS:hover{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:blue;
+    background-color:hotpink;
+    text-shadow:2px 2px 2px  ivory;
+   
+}
+.ELLA{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:blanchedalmond;
+    background-color: olive;
+  
+}
+.ELLA:hover{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:crimson;
+    background-color:antiquewhite;
+    text-shadow:2px 2px 2px  cyan;
+   
+}
+.SAPHIR{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: darkorange;
+    background-color:wheat;
+    
+}
+.SAPHIR:hover{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:chartreuse;
+    background-color:snow;
+    text-shadow:2px 2px 2px  deepskyblue;
+    
+   
+}
