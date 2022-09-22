@@ -95,3 +95,17 @@ h6.name{
     padding: 3px;
     margin: 1px;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a {
+    display:grid;
+    padding: 3px;
+    background-color:bisque;
+}
