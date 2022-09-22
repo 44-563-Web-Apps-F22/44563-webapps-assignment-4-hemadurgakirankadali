@@ -86,3 +86,12 @@ h6.name{
     
    
 }
+.table{
+    border: 6px;
+    border-style: dashed;
+    color: darkblue;
+    text-align: center;
+    background-color: beige;
+    padding: 3px;
+    margin: 1px;
+}
